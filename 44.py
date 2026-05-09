@@ -1,6 +1,7 @@
 import csv
 import os
 # Лабораторная работа 5
+print("Вариант А")
 class BaseEntity:
     def __init__(self):
         pass
