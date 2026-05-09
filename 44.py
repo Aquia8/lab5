@@ -1,4 +1,4 @@
-import csv
+import csv #изменение А
 import os
 # Лабораторная работа 5
 print("Вариант А")
