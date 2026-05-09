@@ -1,6 +1,6 @@
 import csv
 import os
-
+# Лабораторная работа 5
 class BaseEntity:
     def __init__(self):
         pass
